@@ -30,7 +30,7 @@ I'm a passionate frontend developer dedicated to crafting intuitive and dynamic 
 ## 📫 Connect with Me
 
 - **Email:** [mdmafuj000@gmail.com](mailto:mdmafuj000@gmail.com)
-- **LinkedIn:** [[LinkedIn Profile](https://your-linkedin-profile)](https://www.linkedin.com/in/mafujurrahman/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mafujurrahman/)
 
 ---
 
