@@ -8,6 +8,22 @@ I'm a passionate frontend developer dedicated to crafting intuitive and dynamic 
 
 ---
 
+## 🔭 Currently Working On
+
+- **Interactive Websites:** Utilizing HTML, CSS, and JavaScript to build engaging web pages.
+- **Modern Frontend Frameworks:** Enhancing my skills with React and Vue.js.
+- **Responsive Design:** Ensuring accessibility and mobile-friendly designs.
+
+---
+
+## 🌱 Learning & Growing
+
+- **Backend Technologies:** Expanding my expertise to become a full-stack developer.
+- **Design Tools:** Experimenting with Figma and Adobe XD for better UI/UX designs.
+- **Web Development Trends:** Staying updated with the latest advancements in the field.
+
+---
+
 ## 📊 GitHub Stats
 
 ![Commit Count](https://github-readme-stats.vercel.app/api?username=mafujur-rahman&show_icons=true&count_private=true&hide=contribs,prs)
@@ -26,6 +42,13 @@ I'm a passionate frontend developer dedicated to crafting intuitive and dynamic 
 
 ---
 
+## 🚀 Looking Forward To
+
+- **Collaborations:** Working on exciting open-source projects.
+- **Contributions:** Developing meaningful and impactful web applications.
+- **Continuous Improvement:** Learning and growing in the ever-evolving field of frontend development.
+
+---
 
 ## 📫 Connect with Me
 
