@@ -1,6 +1,6 @@
 # Hi there, I'm Mafujur Rahman Jewel 👋
 
-![Profile Banner](https://i.ibb.co/S0f4DRn/Front-end-Development.jpg)
+![Profile Banner](https://i.ibb.co/dJsw004/github-banner.jpg)
 
 ## About Me
 
