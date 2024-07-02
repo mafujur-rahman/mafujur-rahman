@@ -48,8 +48,7 @@ A dynamic task management app built with React.
 ## 📫 Connect with Me
 
 - **Email:** [mdmafuj000@gmail.com](mailto:mdmafuj000@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://your-linkedin-profile)
-- **Twitter:** [Twitter Handle](https://your-twitter-handle)
+- **LinkedIn:** [[LinkedIn Profile](https://your-linkedin-profile)](https://www.linkedin.com/in/mafujurrahman/)
 
 ---
 
