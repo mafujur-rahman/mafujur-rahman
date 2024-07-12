@@ -26,7 +26,7 @@ I'm a passionate frontend developer dedicated to crafting intuitive and dynamic 
 
 ## 📊 GitHub Stats
 
-![Commit Count](https://github-readme-stats.vercel.app/api?username=mafujur-rahman&show_icons=true&count_private=true&hide=contribs,prs)
+![Commit Count](https://github-readme-stats.vercel.app/api?username=mahfuj926&show_icons=true&count_private=true&hide=contribs,prs)
 
 ---
 
